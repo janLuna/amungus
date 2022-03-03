@@ -1,3 +1,5 @@
 {
-  "main": "test.js"
+  "main": "test.js",
+  "description": "test",
+  "name":"test"
 }
